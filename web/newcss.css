@@ -1,0 +1,26 @@
+
+h2 {color: #000080; margin-left: 20px}
+h3 {color: green; margin-left: 20px}
+
+
+table {
+    color: whitesmoke;
+    margin-left: 20px;
+    background-color: black;
+    font-family: helvetica;
+}
+body {
+    background-color: black;
+    color: greenyellow;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+
+td {
+    padding: 4px;
+}
+
+
